@@ -6,7 +6,7 @@ An interactive, responsive, and modern Periodic Table of Elements built with van
 ## 🚀 Live Demo
 
 *Add your GitHub Pages link here once deployed!*
-*Example: `https://yourusername.github.io/glassmorphism-periodic-table/`*
+*Example: `https://keylocker006.github.io/glassmorphism-periodic-table/`*
 
 ## ✨ Features
 
